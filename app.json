@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Qual é a Boa?",
-    "slug": "qual-e-a-boa",
+    "slug": "caricari",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -30,8 +30,10 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "0dada564-8a59-49bd-80af-c262178c0887"
+        "projectId": "39d0a20e-3216-44ac-9e5c-b790491d0143"
       }
-    }
+    },
+    "owner": "carinasouzas-team"
   }
 }
+
